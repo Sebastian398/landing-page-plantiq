@@ -57,7 +57,7 @@ class HeroSection extends StatelessWidget {
                   ElevatedButton(
                     onPressed: () {
                       final String downloadUrl =
-                          "https://github.com/Cu4lQu1er4/Ejecutable-PlantIQ/releases/download/v1.0.0/plantiq.exe";
+                          "https://github.com/Sebastian398/.exe/releases/download/v1.0.0/plantiq.msix";
                       final anchor = html.AnchorElement(href: downloadUrl)
                         ..download = "plantiq.exe"
                         ..style.display = 'none';
