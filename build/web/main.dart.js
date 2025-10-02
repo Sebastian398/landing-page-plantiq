@@ -19352,7 +19352,7 @@ return n}}
 A.a48.prototype={
 $1(a){var s=A.cs().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"https://www.gstatic.com/flutter-canvaskit/c29809135135e262a912cf583b2c90deb9ded610/":s)+a},
+return(s==null?"https://www.gstatic.com/flutter-canvaskit/d3d45dcf251823c1769909cd43698d126db38deb/":s)+a},
 $S:55}
 A.Mm.prototype={
 d3(a,b){var s,r=this.a
@@ -55537,7 +55537,7 @@ $0(){},
 $S:0}
 A.PU.prototype={
 $0(){var s,r=document,q=r.createElement("a")
-q.href="https://github.com/Cu4lQu1er4/Ejecutable-PlantIQ/releases/download/v1.0.0/plantiq.exe"
+q.href="https://github.com/Sebastian398/.exe/releases/download/v1.0.0/plantiq.msix"
 q.download="plantiq.exe"
 s=q.style
 s.display="none"
